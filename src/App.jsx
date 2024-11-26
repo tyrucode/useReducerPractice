@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1><b>GOAL</b>: Create a Timer, Create a Theme Switcher</h1>
+      <h1><b>GOAL</b>: Create a Counter, Create a Theme Switcher</h1>
       <h2>using useReducer</h2>
       <ThemeToggler>
         <Counter /> 
